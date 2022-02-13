@@ -1,0 +1,22 @@
+// Place all the styles related to the questions controller here
+// Using this variable
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&display=swap');
+ body {
+   background: pink;
+   display: block;
+   margin: 40px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: lighter;
+  color: whitesmoke;
+  font-family: 'Akaya Telivigala', cursive;
+  margin-bottom: 7px;
+  letter-spacing: -0.02rem;
+}
+ input{
+   border-radius: 100px;
+ }
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
